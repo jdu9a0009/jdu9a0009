@@ -23,6 +23,6 @@ I am Sarvarbek Fozilov backend Golang developer
 
 
 <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=Sarvarbek&show_icons=true&theme=radical" />
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvarbek&layout=compact" />
+<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvarbek&layout=compact" />
 
 
